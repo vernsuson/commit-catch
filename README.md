@@ -6,3 +6,5 @@ This is the third local change
 random
 fork change 1
 fork change 2
+fork change 3
+fork change 4
